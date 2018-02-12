@@ -1,6 +1,6 @@
 # Proyecto Dmark
 
-![img/screenshot.png](img/screenshot.png)
+![img/screenshot.png](screenshot.png)
 ## Descripción:
 
 Una empresa lider en su rubro llamada Dmark, nos pide que su página actual (Página estática), pueda ser modificada por ellos mismos, sin modificar el html y css de esta.
